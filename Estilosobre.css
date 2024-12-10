@@ -1,0 +1,25 @@
+BODY{
+    background-color: black;
+
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+  
+    color: black
+}
+p{
+    color: black
+
+}
+img{
+    width: 350px;
+    height: 250px;
+}
+
+.geral{
+    width: 900px;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+}

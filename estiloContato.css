@@ -1,0 +1,40 @@
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: whitesmoke;
+    }
+    .Container{
+        width: 80%;
+        margin: 0% auto;
+        padding: 20px;
+        background-color: #fff;
+margin-top: 50px;
+    }
+h1{
+text-align: center;
+
+    }
+.Contato{
+    margin: 30px;
+
+   }
+.Contato P{
+    margin-bottom: 10px;
+
+}
+.formulario{
+    margin: 30px;
+}
+.formulario textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 150px;
+}
+.formulario input[type="submit"]{
+   background-color: blue;     
+   color: white;
+   border: none;
+   padding: 10px 20px;
+}
